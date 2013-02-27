@@ -97,7 +97,7 @@
 }
 
 -(NSString *) aspectName {
-  return @"UIKit";
+  return @"AppKit";
 }
 
 @end
